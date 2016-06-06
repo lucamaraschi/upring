@@ -83,7 +83,7 @@ server.add('write', (req, reply) => {
 ```
 
 We recommend using [baseswim](http://github.com/mcollina/baseswim) to
-run a base node. It also avalailable as a tiny docker image.
+run a base node. It also available as a tiny docker image.
 
 <a name="api"></a>
 ## API
